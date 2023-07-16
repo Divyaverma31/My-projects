@@ -1,0 +1,14 @@
+.container {
+  
+    border-radius: 30px;
+    margin: 70px 300px 70px 300px;
+    padding: 30px;
+    background-color: white;
+}
+
+
+body {
+    margin: auto;
+    padding: auto;
+    background-color: aqua;
+}
